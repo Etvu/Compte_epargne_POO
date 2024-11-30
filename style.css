@@ -1,0 +1,20 @@
+body{
+    background-color: #f4f4f4;
+}
+header{
+    color: rgb(15, 15, 189);
+    text-align: center;
+}
+h1{
+    font-size: 28px;
+}
+h2{
+    font-size: 20px;
+}
+.section_principal{
+    border: 2px solid #dcdcdc;
+}
+p{
+    text-align: center;
+    font-style: italic;
+}
